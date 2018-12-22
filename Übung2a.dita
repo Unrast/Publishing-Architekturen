@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dzr_fxv_mfb">
+    <title>Anwenden einer bedingten Formatierung</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Markieren Sie den Zellbereich, die Tabelle oder das gesamte Blatt, auf den/die/das Sie die bedingte Formatierung anwenden möchten.</cmd>
+            </step>
+            <step>
+                <cmd>Klicken Sie auf der Registerkarte <b>Start</b> auf <b>Bedingte Formatierung.</b></cmd>
+            </step>
+            <step>
+                <cmd>Führen Sie eine der folgenden Aktionen aus:</cmd>
+                <choicetable>
+                    <chhead>
+                        <choptionhd>Hervorheben</choptionhd>
+                        <chdeschd>Vorgehensweise</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Werte in bestimmten Zellen. Beispiele sind Datumswerte nach dieser Woche oder Zahlen zwischen 50 und 100 oder die untersten 10 Prozent der Ergebniswerte</choption>
+                        <chdesc>Zeigen Sie auf Regeln zum Hervorheben von Zellen oder auf Obere/untere Regeln, und klicken Sie dann auf die gewünschte Option</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Das Verhältnis der Werte in einem Zellbereich. Erweitert ein Farbband über die Zelle. Beispiele sind Preisvergleiche oder Bevölkerungszahlen in Großstädten.</choption>
+                        <chdesc>Zeigen Sie auf Datenbalken, und klicken Sie dann auf die gewünschte Füllung.</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+        </steps>
+    </taskbody>
+</task>
